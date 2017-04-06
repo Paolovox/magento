@@ -1,0 +1,3 @@
+[submodule "Drc"]
+	path = Drc
+	url = /var/www/html/magento/app/code/Drc/
