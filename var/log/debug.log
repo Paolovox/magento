@@ -6363,3 +6363,4 @@
 [2017-04-06 19:43:34] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"},"is_exception":false} []
 [2017-04-06 19:43:34] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"},"is_exception":false} []
 [2017-04-06 19:44:02] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"},"is_exception":false} []
+[2017-04-06 21:50:14] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://maddaai.syrus.it/admin_hhzwha/admin/index/index/key/3704b4f66e7289f7ecc2a093ab2ba2f63a662dc0381c5a18ef19db5dd4bc4b82/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"},"is_exception":false} []
